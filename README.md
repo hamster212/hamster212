@@ -13,9 +13,8 @@ not done
 
 
 # Connect with Me
-GitHub: YourGitHubUsername
-Discord: YourDiscordTag#1234
-Email: your.email@example.com
+GitHub: hamster212
+Discord: _hamster_.
 Feel free to reach out to me on Discord or through email if you have any questions, want to collaborate on projects, or just want to chat about Discord.py and bot development.
 
 # Let's Build Together! 🚀
